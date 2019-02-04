@@ -1,0 +1,1090 @@
+﻿Log file open, 03/02/18 21:24:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject6
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1210436468) SRandInit(-1210436468).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.249630
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.03-05.24.36:637][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.03-05.24.36:637][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.03-05.24.36:656][  0]LogInit: Computer: DESKTOP-VP7C5NM
+[2018.03.03-05.24.36:656][  0]LogInit: User: paul
+[2018.03.03-05.24.36:656][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.03-05.24.36:656][  0]LogInit: High frequency timer resolution =2.835934 MHz
+[2018.03.03-05.24.36:657][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2018.03.03-05.24.36:657][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.03-05.24.36:657][  0]LogMemory: Process Physical Memory: 274.05 MB used, 274.05 MB peak
+[2018.03.03-05.24.36:657][  0]LogMemory: Process Virtual Memory: 263.41 MB used, 263.41 MB peak
+[2018.03.03-05.24.36:657][  0]LogMemory: Physical Memory: 8058.50 MB used,  8055.88 MB free, 16114.38 MB total
+[2018.03.03-05.24.36:657][  0]LogMemory: Virtual Memory: 672.95 MB used,  8055.88 MB free, 134217728.00 MB total
+[2018.03.03-05.24.36:979][  0]LogInit: Using OS detected language (en-US).
+[2018.03.03-05.24.36:979][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.03-05.24.36:988][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.03-05.24.37:687][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.03-05.24.38:438][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.03-05.24.38:472][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2018.03.03-05.24.38:472][  0]LogD3D11RHI:       2019/0/8057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.03-05.24.38:482][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.03.03-05.24.38:482][  0]LogD3D11RHI:       128/0/8057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.03-05.24.38:485][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.03-05.24.38:485][  0]LogD3D11RHI:       0/0/8057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.03-05.24.38:485][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.03-05.24.38:494][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.03-05.24.38:494][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2018.03.03-05.24.38:494][  0]LogWindows: EnumDisplayDevices:
+[2018.03.03-05.24.38:494][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.03.03-05.24.38:494][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.03.03-05.24.38:495][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.03.03-05.24.38:495][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.03-05.24.38:495][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2018.03.03-05.24.38:495][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.03-05.24.38:495][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.03-05.24.38:495][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.03.03-05.24.38:516][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.03-05.24.38:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.03-05.24.38:533][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Intermediate/Shaders/WorkingDirectory/14852/).
+[2018.03.03-05.24.38:533][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/paul/AppData/Local/Temp/UnrealShaderWorkingDir/A10240994E84A65BD5C3C28922516B56/'.
+[2018.03.03-05.24.38:533][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.03-05.24.40:335][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.03-05.24.40:434][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.03-05.24.40:536][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.03-05.24.40:665][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.03-05.24.40:757][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.03-05.24.40:850][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.03-05.24.40:952][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.03-05.24.41:066][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.03-05.24.41:179][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.03-05.24.41:295][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.03-05.24.41:405][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.03-05.24.41:511][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.03-05.24.41:605][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.03-05.24.41:692][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.03-05.24.41:867][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.03-05.24.41:867][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.03-05.24.41:958][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.03-05.24.42:032][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.03-05.24.42:177][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.03-05.24.42:222][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.03-05.24.42:323][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.03-05.24.42:412][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.03-05.24.42:500][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.03-05.24.42:600][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.03-05.24.42:600][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.03-05.24.43:432][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.03-05.24.43:556][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/paul/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.03-05.24.43:557][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/paul/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.03-05.24.43:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.03-05.24.43:557][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.03-05.24.43:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.03-05.24.43:557][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.03-05.24.43:583][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.03-05.24.43:597][  0]LogDerivedDataCache: Using Local data cache path C:/Users/paul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.03-05.24.43:620][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.03-05.24.43:620][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.03-05.24.43:628][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.03-05.24.43:628][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.03-05.24.44:712][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.03-05.24.45:635][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.03-05.24.45:767][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.03-05.24.45:767][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.03-05.24.45:767][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.03-05.24.45:767][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.03-05.24.45:767][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.03-05.24.45:829][  0]LogNetVersion: MyProject6 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 519698607)
+[2018.03.03-05.24.46:213][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2018.03.03-05.24.47:425][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.131268 seconds
+[2018.03.03-05.24.47:433][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.03-05.24.47:433][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.03-05.24.47:433][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.03-05.24.47:545][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.03-05.24.54:001][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.03-05.24.54:090][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.03-05.24.55:565][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.03-05.24.56:731][  0]SourceControl: Source control is disabled
+[2018.03.03-05.24.56:731][  0]SourceControl: Source control is disabled
+[2018.03.03-05.24.56:856][  0]SourceControl: Source control is disabled
+[2018.03.03-05.24.56:961][  0]SourceControl: Source control is disabled
+[2018.03.03-05.24.58:612][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.03-05.24.59:177][  0]LogOcInput: OculusInput pre-init called
+[2018.03.03-05.24.59:727][  0]LogEngine: Initializing Engine...
+[2018.03.03-05.24.59:731][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.03-05.25.00:187][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.03-05.25.00:187][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.03-05.25.00:462][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.03-05.25.00:474][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-05.25.00:504][  0]LogInit: FAudioDevice initialized.
+[2018.03.03-05.25.00:678][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/paul/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.03-05.25.00:701][  0]LogInit: Texture streaming: Enabled
+[2018.03.03-05.25.00:879][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.03-05.25.01:151][  0]LogInit: Transaction tracking system initialized
+[2018.03.03-05.25.02:989][  0]BlueprintLog: New page: Editor Load
+[2018.03.03-05.25.05:021][  0]LocalizationService: Localization service is disabled
+[2018.03.03-05.25.06:764][  0]LogConsoleResponse: Display: 
+[2018.03.03-05.25.07:092][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paul/Documents/Unreal Projects/MyProject6/Content/' took 0.01s
+[2018.03.03-05.25.07:092][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.03-05.25.07:092][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.03-05.25.07:092][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.03-05.25.10:066][  0]SourceControl: Source control is disabled
+[2018.03.03-05.25.10:067][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.03-05.25.10:067][  0]LightingResults: New page: Lighting Build
+[2018.03.03-05.25.10:211][  0]MapCheck: New page: Map Check
+[2018.03.03-05.25.10:211][  0]LightingResults: New page: Lighting Build
+[2018.03.03-05.25.10:651][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.03-05.25.10:664][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.03-05.25.10:685][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.03-05.25.10:817][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 130.954ms to complete.
+[2018.03.03-05.25.10:817][  0]LogFileHelpers: Loading map 'Template_Default' took 0.750
+[2018.03.03-05.25.10:886][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.03-05.25.10:886][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.03-05.25.11:044][  0]LogCollectionManager: Loaded 0 collections in 0.002629 seconds
+[2018.03.03-05.25.11:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paul/Documents/Unreal Projects/MyProject6/Saved/Collections/' took 0.01s
+[2018.03.03-05.25.11:170][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paul/Documents/Unreal Projects/MyProject6/Content/Developers/paul/Collections/' took 0.01s
+[2018.03.03-05.25.11:170][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paul/Documents/Unreal Projects/MyProject6/Content/Collections/' took 0.01s
+[2018.03.03-05.25.11:170][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.03-05.25.11:180][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2363 classes and 519 folders.
+[2018.03.03-05.25.11:275][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.03-05.25.11:353][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.03-05.25.11:422][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.03-05.25.11:454][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.03-05.25.11:457][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.03-05.25.11:473][  0]LogSlate: Took 0.000963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.03-05.25.11:701][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.03.03-05.25.12:108][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.03-05.25.12:108][  0]LogLoad: (Engine Initialization) Total time: 40.22 seconds
+[2018.03.03-05.25.12:108][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.03-05.25.12:108][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.03-05.25.12:108][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.03-05.25.12:524][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.03-05.25.13:467][  3]LogAssetRegistry: Asset discovery search completed in 27.2796 seconds
+[2018.03.03-05.25.13:473][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.03-05.25.13:473][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000191 seconds (updated 0 objects)
+[2018.03.03-05.25.22:727][414]LogSlate: Took 0.000765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.03-05.25.47:352][251]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.03-06.19.04:962][749]Cmd: SELECT NONE
+[2018.03.03-06.19.26:371][ 31]LogSlate: Took 0.000589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.03-06.22.53:208][740]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.03-06.22.53:373][744]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject6
+[2018.03.03-06.22.53:374][744]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.03-06.22.53:374][744]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.03.03-06.22.53:374][744]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.03-06.22.53:374][744]LogTemp: BranchPath = DESKTOP-VP7C5NM/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-VP7C5NM/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.03-06.22.53:400][745]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\paul\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.03-06.23.02:453][344]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.03-06.23.39:175][ 13]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.03.03-06.23.39:177][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.03-06.23.39:178][ 13]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2018.03.03-06.23.41:049][ 13]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.03.03-06.23.41:050][ 13]LogEditorActor: Deleted Actor: PlayerStart
+[2018.03.03-06.23.41:050][ 13]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.03.03-06.23.41:050][ 13]LogEditorActor: Deleted Actor: SkyLight
+[2018.03.03-06.23.41:051][ 13]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.03.03-06.23.41:065][ 13]LogEditorActor: Deleted 7 Actors (1.899 secs)
+[2018.03.03-06.25.07:655][910]LogSavePackage: Save=12.51ms
+[2018.03.03-06.25.07:655][910]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Untitled_1_Auto137927B8C4247DFFA28DA7884DDD3F6E0.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.03.03-06.25.07:658][910]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.03.03-06.25.07:661][910]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.043
+[2018.03.03-06.25.07:661][910]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.043
+[2018.03.03-06.25.12:874][299]Cmd: SELECT NONE
+[2018.03.03-06.26.09:694][408]LogSavePackage: Save=8.32ms
+[2018.03.03-06.26.09:694][408]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/main2721027F48920ACF7172D0B63FF39F01.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Map/main.umap'
+[2018.03.03-06.26.09:700][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Map/main.umap
+[2018.03.03-06.26.09:716][408]LogFileHelpers: Saving map 'main' took 0.281
+[2018.03.03-06.26.09:718][408]LightingResults: New page: Lighting Build
+[2018.03.03-06.26.09:719][408]MapCheck: New page: Map Check
+[2018.03.03-06.26.09:719][408]LightingResults: New page: Lighting Build
+[2018.03.03-06.26.09:739][408]LogAIModule: Creating AISystem for world Untitled
+[2018.03.03-06.26.09:792][408]LoadErrors: New page: New Map
+[2018.03.03-06.26.19:888][451]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.03-06.26.20:006][454]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject6
+[2018.03.03-06.26.20:006][454]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.03-06.26.20:006][454]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.03.03-06.26.20:006][454]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.03-06.26.20:026][455]LogTemp: BranchPath = DESKTOP-VP7C5NM/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-VP7C5NM/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.03-06.26.20:055][456]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\paul\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.03-06.26.23:681][808]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.03-06.26.39:030][353]LogLinker: Warning: Can't find file '/Game/NewFolder/Map/main_BuiltData'
+[2018.03.03-06.26.39:031][353]LogLinker: Warning: Can't find file '/Game/NewFolder/Map/main_BuiltData'
+[2018.03.03-06.26.39:032][353]LogLinker: Warning: Can't find file '/Game/NewFolder/Map/main_BuiltData'
+[2018.03.03-06.26.39:034][353]LogAIModule: Creating AISystem for world main
+[2018.03.03-06.26.39:059][353]Cmd: MAP LOAD FILE="../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Map/main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.03-06.26.39:059][353]LightingResults: New page: Lighting Build
+[2018.03.03-06.26.39:060][353]LoadErrors: New page: Loading map: main.umap
+[2018.03.03-06.26.39:060][353]MapCheck: New page: Map Check
+[2018.03.03-06.26.39:060][353]LightingResults: New page: Lighting Build
+[2018.03.03-06.26.39:142][353]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.03-06.26.39:169][353]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.03-06.26.39:265][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.009ms to complete.
+[2018.03.03-06.26.39:270][353]LogFileHelpers: Loading map 'main' took 0.212
+[2018.03.03-06.26.39:272][353]LoadErrors: Error: /Game/NewFolder/Map/main : Failed import for MapBuildDataRegistry /Game/NewFolder/Map/main_BuiltData.main_BuiltData Referenced by export Level /Game/NewFolder/Map/main.main:PersistentLevel
+[2018.03.03-06.27.33:884][838]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/paul/Desktop/sprites/dust.png)
+[2018.03.03-06.27.33:899][838]LogTexture: Display: Building textures: dust (AutoDXT, 8X8)
+[2018.03.03-06.27.33:915][838]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/paul/Desktop/sprites/player.png)
+[2018.03.03-06.27.33:925][838]LogTexture: Display: Building textures: player (AutoDXT, 32X32)
+[2018.03.03-06.27.33:941][838]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/paul/Desktop/sprites/spritesheet.png)
+[2018.03.03-06.27.33:951][838]LogTexture: Display: Building textures: spritesheet (AutoDXT, 128X128)
+[2018.03.03-06.27.44:370][998]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.03-06.28.13:940][820]LogTexture: Display: Building textures: spritesheet (AutoDXT, 128X128)
+[2018.03.03-06.28.24:222][793]LogEditorFactories: Performing atomic reimport of [C:/Users/paul/Desktop/sprites/spritesheet.png]
+[2018.03.03-06.28.24:222][793]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/paul/Desktop/sprites/spritesheet.png)
+[2018.03.03-06.28.24:223][793]LogTexture: Display: Building textures: spritesheet (BGRA8, 128X128)
+[2018.03.03-06.28.24:228][793]LogTexture: Display: Building textures: spritesheet (BGRA8, 128X128)
+[2018.03.03-06.28.24:234][793]LogEditorFactories: -- imported successfully
+[2018.03.03-06.28.40:172][270]LogTexture: Display: Building textures: player (AutoDXT, 32X32)
+[2018.03.03-06.28.42:060][440]LogEditorFactories: Performing atomic reimport of [C:/Users/paul/Desktop/sprites/player.png]
+[2018.03.03-06.28.42:061][440]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/paul/Desktop/sprites/player.png)
+[2018.03.03-06.28.42:062][440]LogTexture: Display: Building textures: player (BGRA8, 32X32)
+[2018.03.03-06.28.42:065][440]LogTexture: Display: Building textures: player (BGRA8, 32X32)
+[2018.03.03-06.28.42:066][440]LogEditorFactories: -- imported successfully
+[2018.03.03-06.28.56:730][766]LogTexture: Display: Building textures: dust (AutoDXT, 8X8)
+[2018.03.03-06.28.58:069][890]LogEditorFactories: Performing atomic reimport of [C:/Users/paul/Desktop/sprites/dust.png]
+[2018.03.03-06.28.58:070][890]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/paul/Desktop/sprites/dust.png)
+[2018.03.03-06.28.58:071][890]LogTexture: Display: Building textures: dust (BGRA8, 8X8)
+[2018.03.03-06.28.58:074][890]LogTexture: Display: Building textures: dust (BGRA8, 8X8)
+[2018.03.03-06.28.58:078][890]LogEditorFactories: -- imported successfully
+[2018.03.03-06.29.01:868][211]LogEditorFactories: Performing atomic reimport of [C:/Users/paul/Desktop/sprites/dust.png]
+[2018.03.03-06.29.01:869][211]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/paul/Desktop/sprites/dust.png)
+[2018.03.03-06.29.01:878][211]LogTexture: Display: Building textures: dust (BGRA8, 8X8)
+[2018.03.03-06.29.01:880][211]LogEditorFactories: -- imported successfully
+[2018.03.03-06.29.03:773][357]LogEditorFactories: Performing atomic reimport of [C:/Users/paul/Desktop/sprites/dust.png]
+[2018.03.03-06.29.03:775][357]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/paul/Desktop/sprites/dust.png)
+[2018.03.03-06.29.03:779][357]LogTexture: Display: Building textures: dust (BGRA8, 8X8)
+[2018.03.03-06.29.03:781][357]LogEditorFactories: -- imported successfully
+[2018.03.03-06.30.06:768][265]LogSavePackage: Save=7.68ms
+[2018.03.03-06.30.06:768][265]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/spritesheet_TileSetF44A5C384797E3C8C0470181C2926279.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/tileSet/spritesheet_TileSet.uasset'
+[2018.03.03-06.30.06:775][265]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/tileSet/spritesheet_TileSet.uasset
+[2018.03.03-06.30.09:949][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Art/sprites/dust_Sprite" FILE="../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/sprites/dust_Sprite.uasset" SILENT=true
+[2018.03.03-06.30.09:960][607]LogSavePackage: Save=6.40ms
+[2018.03.03-06.30.09:960][607]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/dust_SpriteB8BB2A9D4495DAAD65F6A8BAE7A388D2.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/sprites/dust_Sprite.uasset'
+[2018.03.03-06.30.09:966][607]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/sprites/dust_Sprite.uasset
+[2018.03.03-06.30.16:923][332]LogSavePackage: Save=6.37ms
+[2018.03.03-06.30.16:923][332]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/player_Sprite82023DCA4214FC5D69C6BD840B591CE4.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/sprites/player_Sprite.uasset'
+[2018.03.03-06.30.16:929][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/sprites/player_Sprite.uasset
+[2018.03.03-06.30.19:751][631]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.03.03-06.30.19:840][631]LogSlate: Took 0.001862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.03-06.32.02:998][300]LogSavePackage: Save=11.15ms
+[2018.03.03-06.32.02:999][300]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/spritesheet_TileSetE121E410457D078B6909D1ACF2B61ECD.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/tileSet/spritesheet_TileSet.uasset'
+[2018.03.03-06.32.03:005][300]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/tileSet/spritesheet_TileSet.uasset
+[2018.03.03-06.32.45:429][812]LogSavePackage: Save=4.21ms
+[2018.03.03-06.32.45:429][812]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/spritesheet_TileMap2130888B49610223CBA1CF82CC666200.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/TileMap/spritesheet_TileMap.uasset'
+[2018.03.03-06.32.45:440][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/TileMap/spritesheet_TileMap.uasset
+[2018.03.03-06.32.49:323][195]LogRenderer: Reallocating scene render targets to support 1168x884 Format 10 NumSamples 1 (Frame:1).
+[2018.03.03-06.33.52:287][897]Cmd: TRANSACTION UNDO
+[2018.03.03-06.33.52:287][897]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.35.02:772][650]Cmd: TRANSACTION UNDO
+[2018.03.03-06.35.02:772][650]LogEditorTransaction: Undo Tile Paint Bucket
+[2018.03.03-06.35.10:087][  4]Cmd: TRANSACTION UNDO
+[2018.03.03-06.35.10:087][  4]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.14:659][377]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.14:659][377]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.16:026][442]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.16:026][442]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.16:628][470]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.16:629][470]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.16:861][481]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.16:861][481]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.17:132][494]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.17:132][494]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.19:667][614]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.19:667][614]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.31:810][195]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.31:810][195]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.32:393][222]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.32:393][222]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.32:725][238]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.32:725][238]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.32:997][251]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.32:997][251]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.34:855][339]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.34:856][339]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.35:058][348]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.35:058][348]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.36.35:260][357]Cmd: TRANSACTION UNDO
+[2018.03.03-06.36.35:260][357]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.37.10:589][186]Cmd: TRANSACTION UNDO
+[2018.03.03-06.37.10:589][186]LogEditorTransaction: Undo Tile Paint Bucket
+[2018.03.03-06.37.18:144][549]Cmd: TRANSACTION UNDO
+[2018.03.03-06.37.18:144][549]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.37.41:334][734]Cmd: TRANSACTION UNDO
+[2018.03.03-06.37.41:335][734]LogEditorTransaction: Undo Tile Painting
+[2018.03.03-06.37.58:105][486]LogSavePackage: Save=1066.98ms
+[2018.03.03-06.37.58:105][486]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/spritesheet_TileMap2FEC633D430A9BA19FA3339DA3BF8EDF.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/TileMap/spritesheet_TileMap.uasset'
+[2018.03.03-06.37.58:114][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/TileMap/spritesheet_TileMap.uasset
+[2018.03.03-06.38.56:617][547]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (spritesheet_TileMap)
+[2018.03.03-06.38.58:665][737]LogEditorViewport: Clicking Background
+[2018.03.03-06.39.49:705][321]LogSavePackage: Save=10.42ms
+[2018.03.03-06.39.49:705][321]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/main_Auto2C51200524B93270426EDA79D1215A403.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Map/main_Auto2.umap'
+[2018.03.03-06.39.49:708][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Map/main_Auto2.umap
+[2018.03.03-06.39.49:711][321]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewFolder/Map/main' took 0.067
+[2018.03.03-06.39.49:711][321]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.067
+[2018.03.03-06.39.49:716][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewFolder/Art/Texture/dust] ([1] browsable assets)...
+[2018.03.03-06.39.49:718][321]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/NewFolder/Art/Texture/dust.dust]
+[2018.03.03-06.39.49:718][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewFolder/Art/Texture/dust]
+[2018.03.03-06.39.49:721][321]LogTexture: Display: Building textures: dust (AutoDXT, 8X8)
+[2018.03.03-06.39.49:725][321]LogSavePackage: Save=4.36ms
+[2018.03.03-06.39.49:725][321]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/dust_Auto29E7813CC4C35BB11804B608C4F447E7E.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/Texture/dust_Auto2.uasset'
+[2018.03.03-06.39.49:730][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/Texture/dust_Auto2.uasset
+[2018.03.03-06.39.49:731][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewFolder/Art/Texture/player] ([1] browsable assets)...
+[2018.03.03-06.39.49:732][321]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/NewFolder/Art/Texture/player.player]
+[2018.03.03-06.39.49:732][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewFolder/Art/Texture/player]
+[2018.03.03-06.39.49:736][321]LogTexture: Display: Building textures: player (AutoDXT, 32X32)
+[2018.03.03-06.39.49:739][321]LogSavePackage: Save=4.38ms
+[2018.03.03-06.39.49:740][321]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/player_Auto2D0548BF24823993CD77625BC0989790B.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/Texture/player_Auto2.uasset'
+[2018.03.03-06.39.49:743][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/Texture/player_Auto2.uasset
+[2018.03.03-06.39.49:745][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewFolder/Art/Texture/spritesheet] ([1] browsable assets)...
+[2018.03.03-06.39.49:749][321]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/NewFolder/Art/Texture/spritesheet.spritesheet]
+[2018.03.03-06.39.49:749][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewFolder/Art/Texture/spritesheet]
+[2018.03.03-06.39.49:752][321]LogTexture: Display: Building textures: spritesheet (AutoDXT, 128X128)
+[2018.03.03-06.39.49:761][321]LogSavePackage: Save=8.93ms
+[2018.03.03-06.39.49:761][321]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/spritesheet_Auto2DD61400B4E63367A9202128FAEA1A55E.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/Texture/spritesheet_Auto2.uasset'
+[2018.03.03-06.39.49:765][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/Texture/spritesheet_Auto2.uasset
+[2018.03.03-06.39.49:765][321]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.03.03-06.40.02:666][608]LogEditorViewport: Clicking Background
+[2018.03.03-06.41.19:794][251]LogEditorViewport: Clicking Background
+[2018.03.03-06.42.56:857][794]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.03-06.42.56:974][797]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject6
+[2018.03.03-06.42.56:974][797]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.03-06.42.56:974][797]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.03.03-06.42.56:974][797]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.03-06.42.56:980][797]LogTemp: BranchPath = DESKTOP-VP7C5NM/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-VP7C5NM/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.03-06.42.57:010][798]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\paul\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.03-06.42.59:776][ 40]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.03-06.47.26:511][194]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.03.03-06.47.27:268][194]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.03.03-06.47.27:319][194]LogSlate: Took 0.000590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.03-06.47.27:350][194]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.03.03-06.47.29:705][295]LogSlate: Took 0.004174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.03-06.47.53:556][157]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.03-06.48.05:129][290]BlueprintLog: New page: Compile GameControllerBP
+[2018.03.03-06.48.08:609][290]LogSavePackage: Save=103.88ms
+[2018.03.03-06.48.08:609][290]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/GameControllerBP627C7F4F4FE75FFAD36EABA00BF1EEB1.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/BluePrint/GameControllerBP.uasset'
+[2018.03.03-06.48.08:676][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/BluePrint/GameControllerBP.uasset
+[2018.03.03-06.48.10:708][306]LogSavePackage: Save=98.07ms
+[2018.03.03-06.48.10:708][306]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/GameControllerBPB3868F0A4B9ED0A706BCFDAA1EC6291D.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/BluePrint/GameControllerBP.uasset'
+[2018.03.03-06.48.10:743][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/BluePrint/GameControllerBP.uasset
+[2018.03.03-06.50.21:906][814]LogRenderer: Reallocating scene render targets to support 1524x884 Format 10 NumSamples 1 (Frame:1).
+[2018.03.03-06.50.22:505][832]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewFolder/Map/main' took 0.024
+[2018.03.03-06.50.22:508][832]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewFolder/Art/sprites/player_Sprite] ([1] browsable assets)...
+[2018.03.03-06.50.22:519][832]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/NewFolder/Art/sprites/player_Sprite.player_Sprite]
+[2018.03.03-06.50.22:519][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewFolder/Art/sprites/player_Sprite]
+[2018.03.03-06.50.22:529][832]Warning: Asset '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/sprites/player_Sprite_Auto3.uasset' cannot be saved as it has only been partially loaded
+[2018.03.03-06.50.23:276][862]Cmd: SELECT NONE
+[2018.03.03-06.50.25:419][972]Cmd: TRANSACTION UNDO
+[2018.03.03-06.50.25:419][972]LogEditorTransaction: Undo Select None
+[2018.03.03-06.51.26:475][113]Cmd: TRANSACTION UNDO
+[2018.03.03-06.51.26:475][113]LogEditorTransaction: Undo Edit Source Sprite
+[2018.03.03-06.52.03:410][927]LogSavePackage: Save=6.29ms
+[2018.03.03-06.52.03:410][927]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/player_Sprite642411FC46904FAAD16F6DA71CD7307D.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/sprites/player_Sprite.uasset'
+[2018.03.03-06.52.03:417][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/Art/sprites/player_Sprite.uasset
+[2018.03.03-06.53.30:031][995]BlueprintLog: New page: Compile PlayerBP
+[2018.03.03-06.53.30:922][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/BluePrint/PlayerBP" FILE="../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/BluePrint/PlayerBP.uasset" SILENT=true
+[2018.03.03-06.53.30:944][ 26]LogSavePackage: Save=17.82ms
+[2018.03.03-06.53.30:944][ 26]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/PlayerBPBADD23064528A09B1912A2B11678B016.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/BluePrint/PlayerBP.uasset'
+[2018.03.03-06.53.30:949][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Content/NewFolder/BluePrint/PlayerBP.uasset
+[2018.03.03-06.53.50:498][ 48]Cmd: TRANSACTION UNDO
+[2018.03.03-06.53.50:498][ 48]LogEditorTransaction: Undo Move Actors
+[2018.03.03-06.53.54:349][277]Cmd: TRANSACTION UNDO
+[2018.03.03-06.53.54:349][277]LogEditorTransaction: Undo Move Actors
+[2018.03.03-06.53.54:852][306]Cmd: TRANSACTION UNDO
+[2018.03.03-06.53.54:852][306]LogEditorTransaction: Undo Create Actors
+[2018.03.03-06.54.03:403][812]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (spritesheet_TileMap)
+[2018.03.03-06.54.38:962][936]LogEditorViewport: Clicking on Actor (LMB): PlayerBP_C (PlayerBP)
+[2018.03.03-06.54.42:043][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.03-06.54.42:073][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.03-06.54.42:074][116]PIE: New page: PIE session: main (Mar 2, 2018, 2:54:42 PM)
+[2018.03.03-06.54.42:074][116]LogPlayLevel: Creating play world package: /Game/NewFolder/Map/UEDPIE_0_main
+[2018.03.03-06.54.42:076][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002293s)
+[2018.03.03-06.54.42:077][116]LogAIModule: Creating AISystem for world main
+[2018.03.03-06.54.42:077][116]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2018.03.03-06.54.42:078][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/Map/main.main to /Game/NewFolder/Map/UEDPIE_0_main.main (0.003647s)
+[2018.03.03-06.54.42:112][116]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-06.54.42:127][116]LogInit: FAudioDevice initialized.
+[2018.03.03-06.54.42:170][116]LogLoad: Game class is 'GameControllerBP_C'
+[2018.03.03-06.54.42:175][116]LogWorld: Bringing World /Game/NewFolder/Map/UEDPIE_0_main.main up for play (max tick rate 60) at 2018.03.02-22.54.42
+[2018.03.03-06.54.42:180][116]LogWorld: Bringing up level for play took: 0.008518
+[2018.03.03-06.54.42:243][116]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.03.03-06.54.42:245][116]PIE: Play in editor start time for /Game/NewFolder/Map/UEDPIE_0_main 0.163
+[2018.03.03-06.54.52:947][752]Cmd: TRANSACTION UNDO
+[2018.03.03-06.54.52:947][752]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.03-06.57.32:053][406]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.03.03-06.57.32:053][406]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.03.03-06.57.59:213][641]BlueprintLog: New page: Compile PlayerBP
+[2018.03.03-06.58.00:413][668]BlueprintLog: New page: Compile PlayerBP
+[2018.03.03-06.58.02:502][731]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.03-06.58.02:522][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.03-06.58.02:522][731]PIE: New page: PIE session: main (Mar 2, 2018, 2:58:02 PM)
+[2018.03.03-06.58.02:522][731]LogPlayLevel: Creating play world package: /Game/NewFolder/Map/UEDPIE_0_main
+[2018.03.03-06.58.02:524][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002111s)
+[2018.03.03-06.58.02:525][731]LogAIModule: Creating AISystem for world main
+[2018.03.03-06.58.02:525][731]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2018.03.03-06.58.02:526][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/Map/main.main to /Game/NewFolder/Map/UEDPIE_0_main.main (0.003706s)
+[2018.03.03-06.58.02:591][731]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-06.58.02:609][731]LogInit: FAudioDevice initialized.
+[2018.03.03-06.58.02:649][731]LogLoad: Game class is 'GameControllerBP_C'
+[2018.03.03-06.58.02:653][731]LogWorld: Bringing World /Game/NewFolder/Map/UEDPIE_0_main.main up for play (max tick rate 60) at 2018.03.02-22.58.02
+[2018.03.03-06.58.02:656][731]LogWorld: Bringing up level for play took: 0.006228
+[2018.03.03-06.58.02:658][731]PIE: Play in editor start time for /Game/NewFolder/Map/UEDPIE_0_main 0.576
+[2018.03.03-06.58.22:398][877]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.03-06.58.22:412][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.03-06.58.22:413][877]PIE: New page: PIE session: main (Mar 2, 2018, 2:58:22 PM)
+[2018.03.03-06.58.22:413][877]LogPlayLevel: Creating play world package: /Game/NewFolder/Map/UEDPIE_0_main
+[2018.03.03-06.58.22:415][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001743s)
+[2018.03.03-06.58.22:415][877]LogAIModule: Creating AISystem for world main
+[2018.03.03-06.58.22:415][877]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.03.03-06.58.22:416][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/Map/main.main to /Game/NewFolder/Map/UEDPIE_0_main.main (0.002894s)
+[2018.03.03-06.58.22:444][877]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-06.58.22:460][877]LogInit: FAudioDevice initialized.
+[2018.03.03-06.58.22:494][877]LogLoad: Game class is 'GameControllerBP_C'
+[2018.03.03-06.58.22:498][877]LogWorld: Bringing World /Game/NewFolder/Map/UEDPIE_0_main.main up for play (max tick rate 60) at 2018.03.02-22.58.22
+[2018.03.03-06.58.22:500][877]LogWorld: Bringing up level for play took: 0.005434
+[2018.03.03-06.58.22:502][877]PIE: Play in editor start time for /Game/NewFolder/Map/UEDPIE_0_main 0.42
+[2018.03.03-06.59.20:505][946]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.03-06.59.20:518][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.03-06.59.20:518][946]PIE: New page: PIE session: main (Mar 2, 2018, 2:59:20 PM)
+[2018.03.03-06.59.20:518][946]LogPlayLevel: Creating play world package: /Game/NewFolder/Map/UEDPIE_0_main
+[2018.03.03-06.59.20:520][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001491s)
+[2018.03.03-06.59.20:521][946]LogAIModule: Creating AISystem for world main
+[2018.03.03-06.59.20:521][946]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.03.03-06.59.20:521][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/Map/main.main to /Game/NewFolder/Map/UEDPIE_0_main.main (0.002621s)
+[2018.03.03-06.59.20:584][946]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-06.59.20:598][946]LogInit: FAudioDevice initialized.
+[2018.03.03-06.59.20:630][946]LogLoad: Game class is 'GameControllerBP_C'
+[2018.03.03-06.59.20:634][946]LogWorld: Bringing World /Game/NewFolder/Map/UEDPIE_0_main.main up for play (max tick rate 60) at 2018.03.02-22.59.20
+[2018.03.03-06.59.20:637][946]LogWorld: Bringing up level for play took: 0.006188
+[2018.03.03-06.59.20:642][946]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.03-06.59.20:644][946]PIE: Play in editor start time for /Game/NewFolder/Map/UEDPIE_0_main 0.562
+[2018.03.03-06.59.57:933][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.03-06.59.57:948][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.03-06.59.57:948][ 79]PIE: New page: PIE session: main (Mar 2, 2018, 2:59:57 PM)
+[2018.03.03-06.59.57:948][ 79]LogPlayLevel: Creating play world package: /Game/NewFolder/Map/UEDPIE_0_main
+[2018.03.03-06.59.57:950][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001737s)
+[2018.03.03-06.59.57:950][ 79]LogAIModule: Creating AISystem for world main
+[2018.03.03-06.59.57:951][ 79]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2018.03.03-06.59.57:951][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/Map/main.main to /Game/NewFolder/Map/UEDPIE_0_main.main (0.002940s)
+[2018.03.03-06.59.57:981][ 79]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-06.59.57:996][ 79]LogInit: FAudioDevice initialized.
+[2018.03.03-06.59.58:028][ 79]LogLoad: Game class is 'GameControllerBP_C'
+[2018.03.03-06.59.58:032][ 79]LogWorld: Bringing World /Game/NewFolder/Map/UEDPIE_0_main.main up for play (max tick rate 60) at 2018.03.02-22.59.58
+[2018.03.03-06.59.58:034][ 79]LogWorld: Bringing up level for play took: 0.005374
+[2018.03.03-06.59.58:037][ 79]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.03-06.59.58:039][ 79]PIE: Play in editor start time for /Game/NewFolder/Map/UEDPIE_0_main -0.043
+[2018.03.03-07.00.10:468][770]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.03-07.00.11:445][822]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.03-07.00.11:459][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.03-07.00.11:459][822]PIE: New page: PIE session: main (Mar 2, 2018, 3:00:11 PM)
+[2018.03.03-07.00.11:459][822]LogPlayLevel: Creating play world package: /Game/NewFolder/Map/UEDPIE_0_main
+[2018.03.03-07.00.11:461][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001600s)
+[2018.03.03-07.00.11:462][822]LogAIModule: Creating AISystem for world main
+[2018.03.03-07.00.11:463][822]LogPlayLevel: PIE: World Init took: (0.002561s)
+[2018.03.03-07.00.11:464][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/Map/main.main to /Game/NewFolder/Map/UEDPIE_0_main.main (0.005077s)
+[2018.03.03-07.00.11:494][822]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-07.00.11:509][822]LogInit: FAudioDevice initialized.
+[2018.03.03-07.00.11:544][822]LogLoad: Game class is 'GameControllerBP_C'
+[2018.03.03-07.00.11:547][822]LogWorld: Bringing World /Game/NewFolder/Map/UEDPIE_0_main.main up for play (max tick rate 60) at 2018.03.02-23.00.11
+[2018.03.03-07.00.11:550][822]LogWorld: Bringing up level for play took: 0.005462
+[2018.03.03-07.00.11:552][822]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.03-07.00.11:554][822]PIE: Play in editor start time for /Game/NewFolder/Map/UEDPIE_0_main -0.528
+[2018.03.03-07.00.20:135][269]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.03-07.00.20:150][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.03-07.00.20:150][269]PIE: New page: PIE session: main (Mar 2, 2018, 3:00:20 PM)
+[2018.03.03-07.00.20:150][269]LogPlayLevel: Creating play world package: /Game/NewFolder/Map/UEDPIE_0_main
+[2018.03.03-07.00.20:152][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001883s)
+[2018.03.03-07.00.20:153][269]LogAIModule: Creating AISystem for world main
+[2018.03.03-07.00.20:153][269]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.03.03-07.00.20:154][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/Map/main.main to /Game/NewFolder/Map/UEDPIE_0_main.main (0.003191s)
+[2018.03.03-07.00.20:216][269]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-07.00.20:230][269]LogInit: FAudioDevice initialized.
+[2018.03.03-07.00.20:262][269]LogLoad: Game class is 'GameControllerBP_C'
+[2018.03.03-07.00.20:266][269]LogWorld: Bringing World /Game/NewFolder/Map/UEDPIE_0_main.main up for play (max tick rate 60) at 2018.03.02-23.00.20
+[2018.03.03-07.00.20:269][269]LogWorld: Bringing up level for play took: 0.005852
+[2018.03.03-07.00.20:271][269]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.03-07.00.20:272][269]PIE: Play in editor start time for /Game/NewFolder/Map/UEDPIE_0_main 0.191
+[2018.03.03-07.00.38:354][229]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.03-07.00.38:370][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.03-07.00.38:370][229]PIE: New page: PIE session: main (Mar 2, 2018, 3:00:38 PM)
+[2018.03.03-07.00.38:370][229]LogPlayLevel: Creating play world package: /Game/NewFolder/Map/UEDPIE_0_main
+[2018.03.03-07.00.38:372][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001827s)
+[2018.03.03-07.00.38:373][229]LogAIModule: Creating AISystem for world main
+[2018.03.03-07.00.38:373][229]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.03.03-07.00.38:373][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/Map/main.main to /Game/NewFolder/Map/UEDPIE_0_main.main (0.003074s)
+[2018.03.03-07.00.38:432][229]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.03-07.00.38:446][229]LogInit: FAudioDevice initialized.
+[2018.03.03-07.00.38:479][229]LogLoad: Game class is 'GameControllerBP_C'
+[2018.03.03-07.00.38:482][229]LogWorld: Bringing World /Game/NewFolder/Map/UEDPIE_0_main.main up for play (max tick rate 60) at 2018.03.02-23.00.38
+[2018.03.03-07.00.38:485][229]LogWorld: Bringing up level for play took: 0.005423
+[2018.03.03-07.00.38:487][229]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.03-07.00.38:489][229]PIE: Play in editor start time for /Game/NewFolder/Map/UEDPIE_0_main 0.407
+[2018.03.03-07.00.52:157][ 24]LogEditorViewport: Clicking Background
+[2018.03.03-07.02.08:285][774]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.08:285][774]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.08:511][783]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.08:511][783]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.08:715][792]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.08:715][792]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.08:907][801]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.08:907][801]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.09:085][808]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.09:085][808]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.09:283][818]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.09:283][818]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.09:468][827]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.09:468][827]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.09:640][834]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.09:641][834]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.09:830][844]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.09:830][844]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.10:011][853]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.10:011][853]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.10:187][860]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.10:187][860]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.10:376][870]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.10:376][870]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.11:665][934]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.11:665][934]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.12:131][957]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.12:131][957]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.12:352][968]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.12:352][968]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.12:535][975]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.12:535][975]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.12:731][985]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.12:731][985]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.12:912][994]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.12:912][994]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.13:079][  2]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.13:079][  2]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.13:258][ 11]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.13:258][ 11]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.13:440][ 20]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.13:440][ 20]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.13:623][ 29]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.13:623][ 29]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.13:808][ 37]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.13:808][ 37]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.13:988][ 45]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.13:988][ 45]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.14:165][ 53]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.14:165][ 53]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.14:342][ 62]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.14:342][ 62]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.14:526][ 71]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.14:526][ 71]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.14:689][ 79]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.14:689][ 79]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.14:853][ 87]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.14:854][ 87]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.15:034][ 96]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.15:034][ 96]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.15:200][104]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.15:200][104]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.15:387][113]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.15:387][113]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.15:551][121]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.15:551][121]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.15:734][130]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.15:734][130]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.15:923][139]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.15:924][139]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.16:089][147]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.16:090][147]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.16:275][156]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.16:275][156]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.16:460][165]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.16:460][165]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.16:663][175]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.16:663][175]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.16:848][184]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.16:848][184]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.17:054][194]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.17:054][194]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.17:258][204]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.17:258][204]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.17:461][214]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.17:461][214]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.17:681][225]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.17:681][225]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.17:885][235]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.17:885][235]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.18:092][245]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.18:092][245]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.18:316][256]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.18:316][256]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.18:624][271]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.18:624][271]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.18:908][285]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.18:908][285]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.19:155][297]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.19:155][297]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.19:837][331]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.19:837][331]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.20:245][351]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.20:245][351]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.21:039][390]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.21:039][390]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.21:264][401]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.21:264][401]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.21:474][411]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.21:474][411]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.21:698][422]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.21:698][422]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.21:923][433]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.21:923][433]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.22:165][445]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.22:165][445]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.22:450][459]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.22:450][459]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.22:770][475]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.22:770][475]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.22:990][486]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.22:990][486]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.23:213][497]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.23:213][497]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.23:438][508]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.23:438][508]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.23:684][520]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.23:684][520]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.50:888][867]LogSavePackage: Save=28.30ms
+[2018.03.03-07.02.50:888][867]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/main_Auto3EE14283541EBDE697438BEA7B35AFC36.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Map/main_Auto3.umap'
+[2018.03.03-07.02.50:892][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Map/main_Auto3.umap
+[2018.03.03-07.02.50:895][867]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewFolder/Map/main' took 0.093
+[2018.03.03-07.02.50:895][867]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.093
+[2018.03.03-07.02.50:899][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewFolder/Art/TileMap/spritesheet_TileMap] ([1] browsable assets)...
+[2018.03.03-07.02.50:899][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewFolder/Art/TileMap/spritesheet_TileMap]
+[2018.03.03-07.02.51:031][867]LogSavePackage: Save=121.62ms
+[2018.03.03-07.02.51:031][867]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/spritesheet_TileMap_Auto328F2D31D4B9948E3537EDD9CF98ABC83.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/TileMap/spritesheet_TileMap_Auto3.uasset'
+[2018.03.03-07.02.51:035][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/Art/TileMap/spritesheet_TileMap_Auto3.uasset
+[2018.03.03-07.02.51:037][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewFolder/BluePrint/PlayerBP] ([1] browsable assets)...
+[2018.03.03-07.02.51:037][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewFolder/BluePrint/PlayerBP]
+[2018.03.03-07.02.51:067][867]LogSavePackage: Save=20.23ms
+[2018.03.03-07.02.51:067][867]LogSavePackage: Moving '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/PlayerBP_Auto3F2DDDA374A8EB961CD8F24A48F0728FF.tmp' to '../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/BluePrint/PlayerBP_Auto3.uasset'
+[2018.03.03-07.02.51:069][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/paul/Documents/Unreal Projects/MyProject6/Saved/Autosaves/Game/NewFolder/BluePrint/PlayerBP_Auto3.uasset
+[2018.03.03-07.02.51:070][867]LogFileHelpers: Auto-saving content packages took 0.173
+[2018.03.03-07.02.56:117][122]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.56:117][122]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.56:312][130]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.56:312][130]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.56:506][138]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.56:506][138]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.56:711][148]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.56:711][148]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.56:931][159]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.56:931][159]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.57:192][172]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.57:192][172]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.59:549][288]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.59:549][288]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.02.59:835][302]Cmd: TRANSACTION UNDO
+[2018.03.03-07.02.59:836][302]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.02:787][448]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.02:787][448]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.02:989][458]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.02:989][458]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.03:218][469]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.03:218][469]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.03:425][479]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.03:425][479]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.03:649][490]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.03:649][490]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.03:877][501]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.03:877][501]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.04:100][512]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.04:100][512]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.04:341][524]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.04:342][524]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.04:586][536]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.04:586][536]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.04:890][551]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.04:891][551]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.16:413][125]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.16:413][125]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.16:701][137]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.16:701][137]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.16:885][145]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.16:885][145]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.17:085][155]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.17:085][155]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.17:305][166]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.17:305][166]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.17:508][176]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.17:508][176]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.17:734][187]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.17:734][187]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.18:099][205]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.18:099][205]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.18:387][219]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.18:387][219]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.18:651][232]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.18:651][232]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.18:897][244]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.18:898][244]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.19:121][255]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.19:121][255]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.19:349][266]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.19:349][266]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.19:592][278]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.19:592][278]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.19:819][289]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.19:819][289]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.20:041][300]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.20:041][300]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.20:267][311]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.20:267][311]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.20:510][323]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.20:510][323]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.20:717][333]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.20:717][333]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.20:961][345]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.20:961][345]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.21:164][355]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.21:164][355]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.21:390][366]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.21:390][366]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.21:609][377]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.21:609][377]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.21:835][388]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.21:835][388]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.22:039][398]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.22:039][398]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.22:266][409]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.22:266][409]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.22:509][421]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.22:509][421]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.22:716][431]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.22:716][431]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.22:940][442]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.22:940][442]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.24:031][496]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.24:031][496]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.24:219][505]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.24:219][505]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.24:441][516]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.24:441][516]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.24:661][527]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.24:661][527]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.24:887][538]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.24:888][538]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.25:111][549]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.25:111][549]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.26:913][638]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.26:913][638]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.59:599][269]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.59:599][269]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.03.59:826][278]Cmd: TRANSACTION UNDO
+[2018.03.03-07.03.59:826][278]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.00:032][287]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.00:032][287]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.00:221][296]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.00:221][296]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.00:425][306]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.00:426][306]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.00:631][316]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.00:631][316]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.00:833][326]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.00:834][326]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.01:037][336]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.01:037][336]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.01:261][347]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.01:261][347]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.01:684][368]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.01:684][368]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.02:092][388]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.02:092][388]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.15:667][ 63]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.15:667][ 63]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.16:052][ 80]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.16:052][ 80]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.18:485][200]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.18:485][200]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.19:016][226]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.19:016][226]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.19:264][238]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.19:264][238]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.19:475][248]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.19:475][248]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.19:677][258]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.19:677][258]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.19:902][269]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.19:903][269]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.20:127][279]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.20:127][279]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.20:359][289]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.20:359][289]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.20:581][300]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.20:581][300]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.20:838][313]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.20:838][313]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.21:059][324]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.21:059][324]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.21:303][334]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.21:303][334]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.21:584][348]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.21:584][348]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.21:906][362]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.21:906][362]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.22:168][374]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.22:168][374]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.22:419][382]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.22:419][382]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.22:673][392]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.22:674][392]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.22:849][398]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.22:849][398]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.23:038][405]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.23:039][405]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.23:256][413]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.23:256][413]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.23:479][421]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.23:479][421]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.23:708][429]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.23:708][429]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.23:957][438]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.23:957][438]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.24:179][446]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.24:179][446]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.24:430][455]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.24:430][455]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.24:699][464]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.24:699][464]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.24:969][473]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.24:969][473]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.25:217][481]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.25:217][481]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.25:448][492]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.25:448][492]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.25:688][503]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.25:688][503]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.25:907][513]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.25:907][513]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.26:132][523]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.26:132][523]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.26:365][534]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.26:365][534]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.26:616][546]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.26:616][546]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.26:851][558]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.26:851][558]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.27:085][569]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.27:085][569]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.27:321][580]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.27:322][580]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.27:555][591]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.27:555][591]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.27:791][603]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.27:791][603]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.28:026][614]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.28:027][614]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.28:295][627]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.28:295][627]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.28:512][637]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.28:512][637]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.28:746][649]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.28:746][649]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.28:996][661]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.28:997][661]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.29:198][670]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.29:198][670]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.29:422][681]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.29:422][681]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.29:650][693]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.29:650][693]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.29:886][704]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.29:886][704]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.30:120][716]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.30:121][716]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.30:343][727]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.30:343][727]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.30:614][740]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.30:615][740]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.31:703][794]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.31:703][794]LogEditorTransaction: Undo Tile Erasing
+[2018.03.03-07.04.36:352][985]Cmd: TRANSACTION UNDO
+[2018.03.03-07.04.36:352][985]LogEditorTransaction: Undo Paste Layer
+[2018.03.03-07.04.36:402][985]LogWindows: Windows GetLastError: The operation completed successfully. (0)
